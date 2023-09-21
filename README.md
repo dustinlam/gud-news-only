@@ -1,1 +1,1 @@
-# gud-news
+# gud-news-only
